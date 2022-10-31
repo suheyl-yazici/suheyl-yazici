@@ -35,6 +35,14 @@
   <p><a href="" target="_blank" rel="noreferrer"></a></p>
 </details>
   <hr/>
+    <hr/>
+
+<details align="center">
+  <summary><h3><em>Click For Bootstrap Projects!</em></h3></summary>
+ 
+  <p><a href="https://suheyl-yazici.github.io/bootstrap_project/" target="_blank" rel="noreferrer">Örnek Okul Sayfası</a></p>
+  <p><a href="https://suheyl-yazici.github.io/bootstrap_softPage/" target="_blank" rel="noreferrer">Örnek Yazılım Sayfası</a></p>
+</details>
 
 <details align="center">
   <summary><h3><em>Click For HTML/CSS Projects!</em></h3></summary>
