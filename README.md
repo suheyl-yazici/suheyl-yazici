@@ -1,6 +1,6 @@
 <div>
    <p align="center">
-      <img src="https://user-images.githubusercontent.com/81583304/172399580-c6ac0263-ed22-4a98-8933-bb667bda1e79.gif" alt="languages" width="45%" > 
+      <img src="https://user-images.githubusercontent.com/81583304/172399580-c6ac0263-ed22-4a98-8933-bb667bda1e79.gif" alt="languages" width="40%" > 
    </p>
    <h1 align="center">Hi 👋, I'm SüheyL</h1>
    <h3 align="center">A passionate frontend developer from Turkey</h3>
@@ -11,7 +11,7 @@
 </div>
 
 <div>
-<img src="developer.gif" width="350" align="right" alt="logo">
+<img src="developer.gif" width="400" align="right" alt="logo">
 
 👯  Enthusiastic Front End Developer eager to contribute to team success through hard work,
 attention to details and excellent organizational skills.
@@ -45,12 +45,13 @@ attention to details and excellent organizational skills.
          <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="">
       </a>
    </div>
-
+<br />
 🔧 Languages and Tools :
 
-<div align="left">
+<div>
+   <p align="left">
 
-       <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
        </a>
        
@@ -129,7 +130,9 @@ attention to details and excellent organizational skills.
           <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/>
        </a>
 
-   </div>
+      </p>
+      
+  </div>
 
 </div>
 
@@ -149,9 +152,7 @@ attention to details and excellent organizational skills.
   <p><a href="https://suheyl-yazici.github.io/react_random_user_app/" target="_blank" rel="noreferrer">Random User App</a></p>
   <p><a href="" target="_blank" rel="noreferrer"></a></p>
 </details>
-
   <hr/>
-
 <details align="center">
   <summary><h3><em>Click For Javascript Projects!</em></h3></summary>
   <p><a href="https://suheyl-yazici.github.io/weatherApp/" target="_blank" rel="noreferrer">Weather App</a></p>
@@ -164,24 +165,18 @@ attention to details and excellent organizational skills.
   <p><a href="https://suheyl-yazici.github.io/to_do_app/" target="_blank" rel="noreferrer">Todo App</a></p>
   <p><a href="" target="_blank" rel="noreferrer"></a></p>
 </details>
-
-  <hr/>
-
+  <hr />
 <details align="center">
   <summary><h3><em>Click For BOOTSTRAP Projects!</em></h3></summary>
   <p><a href="https://suheyl-yazici.github.io/bootstrap_project/" target="_blank" rel="noreferrer">Education Page</a></p>
   <p><a href="https://suheyl-yazici.github.io/bootstrap_softPage/" target="_blank" rel="noreferrer">Soft Page</a></p>
 </details>
-
-    <hr/>
-    
+<hr />    
 <details align="center">
   <summary><h3><em>Click For SASS Projects!</em></h3></summary>
   <p><a href="https://suheyl-yazici.github.io/Sass_project/" target="_blank" rel="noreferrer">Portfolio Page</a></p>
 </details>
-
-     <hr/>  
-     
+<hr />  
 <details align="center">
   <summary><h3><em>Click For HTML/CSS Projects!</em></h3></summary>
       <p><a href="https://suheyl-yazici.github.io/Netflix_Survey_Form/" target="_blank" rel="noreferrer">Netflix</a></p>
@@ -190,10 +185,8 @@ attention to details and excellent organizational skills.
       <p><a href="https://suheyl-yazici.github.io/VoltranClub/" target="_blank" rel="noreferrer">Voltron Club</a></p>  
       <p><a href="https://suheyl-yazici.github.io/personel_landing_page/" target="_blank" rel="noreferrer">Personel Landing Page</a></p>  
 </details>
-
-   <hr/>  
-   
-   <div>
+<hr />   
+   <p>
        <a href="https://github.com/ryo-ma/github-profile-trophy">
            <img src="https://github-profile-trophy.vercel.app/?username=suheyl-yazici" alt="suheyl-yazici" />
         </a>
@@ -209,14 +202,6 @@ attention to details and excellent organizational skills.
            <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suheyl-yazici&theme=dark" alt="suheyl-yazici" />
          </p>
         
-</div>
-
-
-
-
-
-<p>
-   
 </p>
 
 
