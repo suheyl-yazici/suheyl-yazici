@@ -1,4 +1,4 @@
-<div>
+<div style="background-color: "f5f6fa; >
    <p align="center">
       <img src="https://user-images.githubusercontent.com/81583304/172399580-c6ac0263-ed22-4a98-8933-bb667bda1e79.gif" alt="languages" width="40%" > 
    </p>
@@ -45,101 +45,78 @@ attention to details and excellent organizational skills.
          <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="">
       </a>
    </div>
+   
 <br />
+
 🔧 Languages and Tools :
 
-<div>
-   <p align="left">
-
-      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
-       </a>
-       
-       <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/>
-       </a>
-      
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>             </a>
-         
-      <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>
-      </a>
-      
-      <a href="#" target="_blank">
-         <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" alt="redux" width="50" height="50" />
-       </a>
-   
-      <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50"/>
-      </a>
-      
-      <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"  width="50" height="50" />
-      </a>
-      
-      <a href="#" target="_blank">
-         <img src="https://mui.com/static/logo.png" alt="material-ui" width="50" height="50"/>
-      </a>
-          
-      <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-       </a> 
-      
-      <a href="#" target="_blank">
-         <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png" alt="django" width="50" height="50"/>
-      </a>
-
-      <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-          <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="50"/>
-      </a>
-       
-      <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
-      </a>
-       
-       <a href="https://heroku.com" target="_blank" rel="noreferrer">
-           <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="50" height="50"/>
-       </a>
-        
-       <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="50" height="50" />
-       </a>
-         
-       <a href="https://slack.com/intl/en-tr/" target="_blank">
-          <img src="https://cdn.brandfolder.io/5H442O3W/as/pl546j-7le8zk-4nzzs1/Slack_Mark_Web.png" alt="slack"  width="50" height="50" />
-        </a>
-
-       <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/>
-       </a>
-         
-       <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
-       </a>
-        
-        <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/>
-         </a>
-         
-        <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-            <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="50" height="50"/>
-        </a>
-         
-       <a href="https://postman.com" target="_blank" rel="noreferrer">
-          <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/>
-       </a>
-
-      </p>
-      
+ <div align="left">
+   <a href="#" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
+   </a>     
+   <a href="#" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/>
+   </a>
+   <a href="#" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>              </a>
+   <a href="#" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>
+   </a>
+   <a href="#" target="_blank">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" alt="redux" width="50" height="50" />
+   </a>
+   <a href="#" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50"/>
+   </a>
+   <a href="#" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"  width="50" height="50" />
+   </a>
+   <a href="#" target="_blank">
+      <img src="https://mui.com/static/logo.png" alt="material-ui" width="50" height="50"/>
+   </a>
+   <a href="#" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+   </a> 
+   <a href="#" target="_blank">
+      <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png" alt="django" width="50" height="50"/>
+   </a>
+   <a href="#" target="_blank">
+      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="50"/>
+   </a>
+   <a href="#" target="_blank">
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
+   </a>
+   <a href="#" target="_blank">
+      <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="50" height="50"/>
+   </a>
+   <a href="#" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="50" height="50" />
+   </a>
+   <a href="#" target="_blank">
+      <img src="https://cdn.brandfolder.io/5H442O3W/as/pl546j-7le8zk-4nzzs1/Slack_Mark_Web.png" alt="slack"  width="50" height="50" />
+   </a>
+   <a href="#" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/>  
+   </a>
+   <a href="#" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
+   </a>
+   <a href="#" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/>
+   </a>
+   <a href="#" target="_blank">
+      <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="50" height="50"/>
+   </a>
+   <a href="#" target="_blank">
+      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/>
+   </a>   
   </div>
-
 </div>
 
 <h2 align="center">🚀 PROJECTS 🚀</h2>
 
 <details align="center">
-  <summary><h3><em>Click For React Projects!</em></h3></summary>
+  <summary><h3><em>Click For REACT Projects!</em></h3></summary>
   <p><a href="https://suheylblogpage.vercel.app/" target="_blank" rel="noreferrer">Blog App Milestone Project</a></p>
   <p><a href="https://movie--app--firebase.herokuapp.com/" target="_blank" rel="noreferrer">Movie App with Firebase</a></p>
   <p><a href="https://suheylrecipeapp.vercel.app/" target="_blank" rel="noreferrer">Recipe App</a></p>
@@ -154,7 +131,7 @@ attention to details and excellent organizational skills.
 </details>
   <hr/>
 <details align="center">
-  <summary><h3><em>Click For Javascript Projects!</em></h3></summary>
+  <summary><h3><em>Click For JAVASCRIPT Projects!</em></h3></summary>
   <p><a href="https://suheyl-yazici.github.io/weatherApp/" target="_blank" rel="noreferrer">Weather App</a></p>
   <p><a href="https://suheyl-yazici.github.io/rest_Countries/" target="_blank" rel="noreferrer">Rest  Countries</a></p>
   <p><a href="https://suheyl-yazici.github.io/digital_clock/" target="_blank" rel="noreferrer">Digital Clock</a></p>
@@ -190,18 +167,10 @@ attention to details and excellent organizational skills.
        <a href="https://github.com/ryo-ma/github-profile-trophy">
            <img src="https://github-profile-trophy.vercel.app/?username=suheyl-yazici" alt="suheyl-yazici" />
         </a>
-    
         <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suheyl-yazici&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" alt="SüheyL Github Stats" />
-        
-       <p>
-         &nbsp;
-         <img align="center" src="https://github-readme-stats.vercel.app/api?username=suheyl-yazici&show_icons=true&locale=tr" alt="suheyl-yazici" />
+        <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suheyl-yazici&show_icons=true&locale=tr" alt="suheyl-yazici" />
         </p>
-         
         <p>
-           <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suheyl-yazici&theme=dark" alt="suheyl-yazici" />
-         </p>
-        
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suheyl-yazici&theme=dark" alt="suheyl-yazici" />
+        </p>
 </p>
-
-
