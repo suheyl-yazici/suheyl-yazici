@@ -1,4 +1,4 @@
-<div style="background-color: "f5f6fa; >
+<div>
    <p align="center">
       <img src="https://user-images.githubusercontent.com/81583304/172399580-c6ac0263-ed22-4a98-8933-bb667bda1e79.gif" alt="languages" width="40%" > 
    </p>
@@ -163,11 +163,7 @@ attention to details and excellent organizational skills.
       <p><a href="https://suheyl-yazici.github.io/personel_landing_page/" target="_blank" rel="noreferrer">Personel Landing Page</a></p>  
 </details>
 <hr />   
-   <p>
-   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suheyl-yazici&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" alt="SüheyL Github Stats" />
-        <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suheyl-yazici&show_icons=true&locale=en" alt="SüheyL Github Stats" />
-        </p>
-        <p>
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suheyl-yazici&theme=dark" alt="suheyl-yazici" />
-        </p>
-</p>
+   <p>&nbsp;
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=suheyl-yazici&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" alt="SüheyL Github Stats" />
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suheyl-yazici&theme=tokyonight" alt="suheyl-yazici" />
+   </p>
