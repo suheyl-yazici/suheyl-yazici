@@ -164,9 +164,7 @@ attention to details and excellent organizational skills.
 </details>
 <hr />   
    <p>
-   <!-- <img src="https://github-profile-trophy.vercel.app/?username=suheyl-yazici&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" alt="suheyl-yazici" /> -->
-
-        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suheyl-yazici&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" alt="SüheyL Github Stats" />
+   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suheyl-yazici&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" alt="SüheyL Github Stats" />
         <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suheyl-yazici&show_icons=true&locale=en" alt="SüheyL Github Stats" />
         </p>
         <p>
