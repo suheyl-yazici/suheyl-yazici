@@ -1,8 +1,39 @@
+<p align="center">
+   <img src="https://user-images.githubusercontent.com/81583304/172399580-c6ac0263-ed22-4a98-8933-bb667bda1e79.gif" alt="languages" width="50%" > 
+</p>
+
 <h1 align="center">Hi 👋, I'm SüheyL</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=suheyl-yazici&label=Profile%20views&color=0e75b6&style=flat" alt="suheyl-yazici" /> </p>
+<p align="right"><img src="https://komarev.com/ghpvc/?username=suheyl-yazici&label=Profile%20views&color=0e75b6&style=flat" alt="suheyl-yazici" /></p>
 
+<div>
+<img src="images/developer.gif" width="350" align="right" alt="logo">
+
+👯 Enthusiastic Front End Developer eager to contribute to team success through hard work,
+attention to details and excellent organizational skills.
+
+📝 Believes in the importance of learning new things every day.
+
+✨ A lifelong learner.
+
+👨‍💻 Motivated to learn, grow and excel in IT industry.
+
+🌱 I’m currently learning **BackEnd**
+
+💬 Ask me about **React,Javascript,Bootstrap 5,Html,Css,Python,Sass**
+
+📫 How to reach me:
+
+  <div align="center">
+      <a href="h.suheylyazici@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="">    </a>
+      <a href="https://wa.me/+905078441393" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt=""></a>
+      <a href="#" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt=""></a>
+      <a href="https://www.linkedin.com/in/hasansüheylyazıcı" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""></a>
+      <a href="#" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt=""></a>
+</div>
+
+</div>
 
 <details align="center">
   <summary><h3><em>Click For React Projects!</em></h3></summary>
@@ -38,12 +69,22 @@
 
 
 <details align="center">
-  <summary><h3><em>Click For Bootstrap Projects!</em></h3></summary>
+  <summary><h3><em>Click For BOOTSTRAP Projects!</em></h3></summary>
  
-  <p><a href="https://suheyl-yazici.github.io/bootstrap_project/" target="_blank" rel="noreferrer">Örnek Okul Sayfası</a></p>
-  <p><a href="https://suheyl-yazici.github.io/bootstrap_softPage/" target="_blank" rel="noreferrer">Örnek Yazılım Sayfası</a></p>
+  <p><a href="https://suheyl-yazici.github.io/bootstrap_project/" target="_blank" rel="noreferrer">Education Page</a></p>
+  <p><a href="https://suheyl-yazici.github.io/bootstrap_softPage/" target="_blank" rel="noreferrer">Soft Page</a></p>
 </details>
     <hr/>
+    
+<details align="center">
+  <summary><h3><em>Click For SASS Projects!</em></h3></summary>
+ 
+  <p><a href="https://suheyl-yazici.github.io/Sass_project/" target="_blank" rel="noreferrer">Portfolio Page</a></p>
+ 
+</details>
+  
+  <hr/>  
+  
 <details align="center">
   <summary><h3><em>Click For HTML/CSS Projects!</em></h3></summary>
  
@@ -54,23 +95,15 @@
   <p><a href="https://suheyl-yazici.github.io/personel_landing_page/" target="_blank" rel="noreferrer">Personel Landing Page</a></p>  
 
 </details>
-  <hr/>
 
-<details align="center">
-  <summary><h3><em>Click For SASS Projects!</em></h3></summary>
- 
-  <p><a href="https://suheyl-yazici.github.io/Sass_project/" target="_blank" rel="noreferrer">Portfolio Page</a></p>
- 
-</details>
-  <hr/>  
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suheyl-yazici" alt="suheyl-yazici" /></a> </p>
 
-- 🌱 I’m currently learning **BackEnd**
 
-- 💬 Ask me about **React,Javascript,Bootstrap 5,Html,Css,Python,Sass**
 
-- 📫 How to reach me **h.suheylyazici@gmail.com**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
