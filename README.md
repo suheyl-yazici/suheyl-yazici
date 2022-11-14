@@ -22,9 +22,9 @@ attention to details and excellent organizational skills.
 
 👨‍💻  Motivated to learn, grow and excel in IT industry.
 
-🌱  I’m currently learning **BackEnd**.
+🌱  I’m currently learning **BackEnd(NodeJs)**.
 
-💬  Ask me about **React,Javascript,Bootstrap 5,Html,Css,Python,Sass**.
+💬  Ask me about **React,Javascript,,Html,Css(Bootstrap 5, Sass, Styled Component, Material UI )**.
 
 📫  How to reach me :
 
@@ -35,15 +35,17 @@ attention to details and excellent organizational skills.
       <a href="https://wa.me/+905078441393" target="_blank">
          <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="">
       </a>
-      <a href="#" target="_blank">
-         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="">
-      </a>
       <a href="https://www.linkedin.com/in/hasansüheylyazıcı" target="_blank">
          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="">
+      </a>
+     /*
+      <a href="#" target="_blank">
+         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="">
       </a>
       <a href="#" target="_blank">
          <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="">
       </a>
+     */
    </div>
    
 <br />
@@ -120,6 +122,8 @@ attention to details and excellent organizational skills.
   <p><a href="https://suheylblogpage.vercel.app/" target="_blank" rel="noreferrer">Blog App Milestone Project</a></p>
   <p><a href="https://movie--app--firebase.herokuapp.com/" target="_blank" rel="noreferrer">Movie App with Firebase</a></p>
   <p><a href="https://suheylrecipeapp.vercel.app/" target="_blank" rel="noreferrer">Recipe App</a></p>
+  <p><a href="https://suheyl-yazici.github.io/react_meals_app/" target="_blank" rel="noreferrer">Meals App</a></p>
+  <p><a href="https://suheyl-yazici.github.io/react_team_member_allocation/" target="_blank" rel="noreferrer">Team Members Allocation</a></p>
   <p><a href="https://suheyl-yazici.github.io/react_products_app/" target="_blank" rel="noreferrer">Products App</a></p>
   <p><a href="https://suheyl-yazici.github.io/react_todo_list/" target="_blank" rel="noreferrer">React Todo List</a></p>
   <p><a href="https://suheyl-yazici.github.io/react_redux_todo_app_example/" target="_blank" rel="noreferrer">React-Redux Todo List</a></p>   
@@ -151,6 +155,7 @@ attention to details and excellent organizational skills.
 <hr />    
 <details align="center">
   <summary><h3><em>Click For SASS Projects!</em></h3></summary>
+  <p><a href="https://suheyl-yazici.github.io/sass_game_portal/" target="_blank" rel="noreferrer">Game Portal</a></p>
   <p><a href="https://suheyl-yazici.github.io/Sass_project/" target="_blank" rel="noreferrer">Portfolio Page</a></p>
 </details>
 <hr />  
